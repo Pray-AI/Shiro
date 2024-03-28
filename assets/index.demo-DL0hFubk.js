@@ -1,0 +1,2 @@
+import{j as o}from"./index-D69ByIPa.js";import{C as r}from"./CodeEditor-BQjrq0LF.js";import"./dom-XXNktKeO.js";import"./helper-CaAdfMs7.js";import"./CodeHighlighter-Ch2_z6mQ.js";import"./toast-giWTrjb-.js";import"./StyledButton-BnfRRGwi.js";import"./motion-minimal-C0x2YXMk.js";import"./use-is-dark-DXZCtKEh.js";const t=()=>o.jsx("div",{className:"h-[300px] overflow-auto border p-4",children:o.jsx(r,{content:Array(100).fill(null).map(()=>`const a = ${Math.random()};
+`).join(""),language:"javascript"})});t.meta={title:"CodeEditor"};export{t as CodeEditorDemo};
